@@ -1,13 +1,11 @@
 public class Furniture {
 
-    // Attributes
     private String id; 
     private int yearOfOrigin; 
     private String owner;
     private String condition; 
     private double startingPrice; 
 
-    // Furniture-specific attributes
     private String type;
     private String style; 
     private String maker;
@@ -15,7 +13,6 @@ public class Furniture {
     private double height;
     private double depth;
 
-    // Constructor
     public Furniture(String id, int yearOfOrigin, String owner,String condition, double startingPrice, String type, String style, String maker, double length, double height, double depth) {
 
         this.id=id;
@@ -31,7 +28,6 @@ public class Furniture {
         this.depth=depth;
     }
 
-    // Queries
     public String getId(){
         return id;
     }
@@ -75,6 +71,11 @@ public class Furniture {
     public double getDepth(){
         return depth;
     }
+
+    public String getinfo(){
+        return id + ". " + style + " " + type + " by " + maker;
+    }
+
     @Override
     public String toString(){
         return "Furniture[id=" + id+ ", type=" + type + ", style=" + style + ", maker=" + maker + ", year=" + yearOfOrigin + ", owner=" + owner + ", condition=" + condition + ", price=" + startingPrice + ", dimensions=" + length + "x" + height + "x" + depth + "]";

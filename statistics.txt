@@ -1,0 +1,19 @@
+Stastic Summary
+1) Total number of items: 23
+
+2) Oldest and Newest Items:
+Oldest: F011. Georgian Bureau by Chippendale (Year: 1760)
+Newest: F015. Modern Sofa by B&B Italia (Year: 1980)
+
+3) Most and Least Expensive Items:
+Most expensive: F011. Georgian Bureau by Chippendale (Price: 4200.00)
+Least expensive: F018. Edwardian Hall Stand by Unknown (Price: 260.00)
+
+4) Starting Prices Summary:
+Average starting price: 1246.96
+Standard deviation: 1091.24
+
+5) Breakdown by Condition:
+Mint: 8
+Restored: 9
+Needs restoring: 6
