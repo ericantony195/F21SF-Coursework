@@ -1,4 +1,5 @@
-F001,1890,James Wilson,restored,1250.00,Table,Victorian,Gillows,180.0,75.0,90.0
-F001,1965,Sarah Patel,mint,480.00,Chair,Modern,Knoll,55.0,85.0,55.0
-F003,1920,James Wilson,broken,320.00,Cabinet,Art Deco,Unknown,120.0,160.0,45.0
-F004,1785,Elena Rossi,brand new,3100.00,Chair,Georgian,Chippendale,60.0,95.0,55.0
+Furniture,F001,1885,1895,James Wilson,restored,1250.00,Table,Victorian,Gillows,180.0,75.0,90.0
+Painting,P001,1888,1890,Elena Rossi,mint,5000.00,Sunflowers,Van Gogh
+Book,B003,1895,1905,Clara Oswald,damaged,640.00,The Hound of the Baskervilles,Arthur Conan Doyle,Second Edition,thriller
+Car,CR003,1927,1931,James Wilson,needs restoring,18500.00,Ford,Model A,maybe
+Coin,F001,1880,1885,James Wilson,mint,410.00,Silver,United States,1 Morgan Dollar

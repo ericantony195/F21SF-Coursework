@@ -1,0 +1,23 @@
+Furniture,F001,1885,1895,James Wilson,restored,1250.00,Table,Victorian,Gillows,180.0,75.0,90.0
+Furniture,F002,1964,1966,Sarah Patel,mint,480.00,Chair,Modern,Knoll,55.0,85.0,55.0
+Furniture,F003,1915,1925,James Wilson,needs restoring,320.00,Cabinet,Art Deco,Unknown,120.0,160.0,45.0
+Furniture,F004,1770,1800,Elena Rossi,restored,3100.00,Chair,Georgian,Chippendale,60.0,95.0,55.0
+Furniture,F005,1955,1960,David Chen,mint,890.00,Lounge Chair,Mid-Century,Herman Miller,84.0,84.0,85.0
+Furniture,F006,1835,1845,Elena Rossi,restored,1450.00,Desk,Victorian,Maples,150.0,78.0,80.0
+Coin,CN001,110,160,Arthur Pendelton,restored,1850.00,Silver,Roman Empire,1 Denarius
+Coin,CN002,1650,1670,Clara Oswald,needs restoring,920.00,Gold,England,1 Guinea
+Coin,CN003,1880,1885,James Wilson,mint,410.00,Silver,United States,1 Morgan Dollar
+Coin,CN004,1790,1810,Maya Lin,restored,1300.00,Copper,France,2 Sols
+Coin,CN005,1920,1922,Sarah Patel,mint,275.00,Gold,Switzerland,20 Francs
+Coin,CN006,1540,1580,Arthur Pendelton,needs restoring,2400.00,Silver,Spain,8 Reales
+Book,B001,1922,1925,Elena Rossi,restored,2200.00,The Great Gatsby,F. Scott Fitzgerald,First Edition,fiction
+Book,B002,1954,1955,David Chen,mint,3500.00,The Fellowship of the Ring,J.R.R. Tolkien,First Edition,fantasy
+Book,B003,1895,1905,Clara Oswald,needs restoring,640.00,The Hound of the Baskervilles,Arthur Conan Doyle,Second Edition,thriller
+Book,B004,1961,1963,Sarah Patel,restored,490.00,Mastering the Art of French Cooking,Julia Child,First Edition,cooking
+Book,B005,1930,1938,Maya Lin,needs restoring,530.00,In Patagonia,Bruce Chatwin,Reprint,travel
+Book,B006,1948,1950,James Wilson,mint,780.00,Shooting an Elephant,George Orwell,First Edition,essay
+Car,CR001,1961,1963,Arthur Pendelton,restored,85000.00,Jaguar,E-Type,yes
+Car,CR002,1954,1957,Elena Rossi,mint,120000.00,Mercedes-Benz,300SL,yes
+Car,CR003,1927,1931,James Wilson,needs restoring,18500.00,Ford,Model A,no
+Car,CR004,1972,1975,David Chen,restored,42000.00,Porsche,911 Carrera,yes
+Car,CR005,1966,1968,Maya Lin,needs restoring,29000.00,Chevrolet,Camaro,no

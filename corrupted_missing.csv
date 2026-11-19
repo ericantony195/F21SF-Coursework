@@ -1,4 +1,4 @@
-F001,1890,James Wilson,restored,1250.00,Table,Victorian,Gillows,180.0,75.0,90.0
-F002,1965,Sarah Patel,mint,480.00,Chair
-F003,1920,,needs restoring,320.00,Cabinet,Art Deco,Unknown,120.0,160.0,45.0
-F004,1785,Elena, Rossi,restored,3100.00,Chair,Georgian,Chippendale,60.0,95.0,55.0
+Furniture,F001,1885,1895,James Wilson,restored,1250.00,Table,Victorian,Gillows,180.0,75.0,90.0
+Book,B001,1922,1925,Elena Rossi,restored,2200.00,The Great Gatsby
+Coin,CN001,110,,Arthur Pendelton,restored,1850.00,Silver,Roman Empire,1 Denarius
+Car,CR001,1961,1963,Arthur, Pendelton,restored,85000.00,Jaguar,E-Type,yes

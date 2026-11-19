@@ -1,19 +1,32 @@
 Stastic Summary
 1) Total number of items: 23
 
-2) Oldest and Newest Items:
-Oldest: F011. Georgian Bureau by Chippendale (Year: 1760)
-Newest: F015. Modern Sofa by B&B Italia (Year: 1980)
+2) Oldest and Newest Items (Low Estimate):
+Oldest: CN001. Silver Coin from Roman Empire (1 Denarius) (Year: 110)
+Newest: CR004. Porsche 911 Carrera (Serviced: true) (Year: 1972)
 
-3) Most and Least Expensive Items:
-Most expensive: F011. Georgian Bureau by Chippendale (Price: 4200.00)
-Least expensive: F018. Edwardian Hall Stand by Unknown (Price: 260.00)
+3) Oldest and Newest Items (High Estimate):
+Oldest: CN001. Silver Coin from Roman Empire (1 Denarius) (Year: 160)
+Newest: CR004. Porsche 911 Carrera (Serviced: true) (Year: 1975)
 
-4) Starting Prices Summary:
-Average starting price: 1246.96
-Standard deviation: 1091.24
+4) Oldest and Newest Items (Average Estimate):
+Oldest: CN001. Silver Coin from Roman Empire (1 Denarius) (Estimated year of origin: 135)
+Newest: CR004. Porsche 911 Carrera (Serviced: true) (Estimated year of origin: 1973)
 
-5) Breakdown by Condition:
-Mint: 8
+5) Top 3 Items with Most Difference in Year Estimates:
+CN001. Silver Coin from Roman Empire (1 Denarius) and difference is 50 years (110-160)
+CN006. Silver Coin from Spain (8 Reales) and difference is 40 years (1540-1580)
+F004. Georgian Chair by Chippendale and difference is 30 years (1770-1800)
+
+6) Most and Least Expensive Items:
+Most expensive: CR002. Mercedes-Benz 300SL (Serviced: true) (Price: 120000.00)
+Least expensive: CN005. Gold Coin from Switzerland (20 Francs) (Price: 275.00)
+
+7. Starting Prices Summary:
+Average starting price: 13795.00
+Standard deviation: 29665.01
+
+8. Breakdown by Condition:
+Mint: 7
 Restored: 9
-Needs restoring: 6
+Needs restoring: 7
